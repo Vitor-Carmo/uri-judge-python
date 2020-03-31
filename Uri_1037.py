@@ -9,3 +9,5 @@ elif 75 < n <= 100.0000:
     print("Intervalo (75,100]")
 else:
     print("Fora de intervalo")
+
+#pt-BR
