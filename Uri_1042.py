@@ -8,3 +8,4 @@ for valor in values:
 print()
 for i in values_copy:
     print(i)
+

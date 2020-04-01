@@ -22,7 +22,6 @@ while True:
 
     print(cube_egde)
 
-    
 
    
 

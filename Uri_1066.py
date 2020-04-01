@@ -15,3 +15,5 @@ print('''{} valor(es) par(es)
 {} valor(es) impar(es)
 {} valor(es) positivo(s)
 {} valor(es) negativo(s)'''.format(pares, impares, positivos, negativos))
+
+

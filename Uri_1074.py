@@ -13,3 +13,6 @@ for i in range(n):
             print('EVEN NEGATIVE')
         else:
             print('ODD NEGATIVE')
+
+
+

@@ -4,3 +4,5 @@ cod, quant = map(int, input().split())
 price = card[cod-1] * quant
 
 print(f'Total: R$ {price:.2f}')
+
+

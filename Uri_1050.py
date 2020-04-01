@@ -17,3 +17,5 @@ if not ddd in DDDs:
     print("DDD nao cadastrado")
 else:
     print(DDDs[ddd])
+
+

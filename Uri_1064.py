@@ -7,3 +7,5 @@ for i in range(6):
 media = soma/quantidade
 print('{} valores positivos'.format(quantidade))
 print('{:.1f}'.format(media))
+
+

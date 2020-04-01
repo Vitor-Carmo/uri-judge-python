@@ -42,3 +42,5 @@ else:
     elif(B==C):
         print("TRIANGULO ISOSCELES")
 
+
+
